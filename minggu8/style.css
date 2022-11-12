@@ -1,0 +1,52 @@
+*{
+	box-sizing: border-box;
+}
+
+header{
+	padding: 35px;
+	text-align: center;
+	background-color: rgb(99, 6, 153);
+	border: 4px solid rgb(104, 4, 4);
+	color: rgb(255, 255, 255);
+}
+
+nav{
+	float: left;
+	width: 20%;
+	text-align: center;
+}
+
+nav ul{
+	list-style-type: none;
+	padding: 8px;
+	text-align: center;
+	background-color: blueviolet;
+	border: 4px solid black;
+	margin-top: 0px;
+	color: rgb(19, 14, 14);
+}
+
+article{
+	float: left;
+	width: 80%;
+	padding: 0 20px;
+	border: 4px solid rgb(89, 3, 116);
+}
+
+.satu{
+	color: rgb(5, 5, 71);
+	font-family: Arial, sans-sherif;
+}
+
+.dua{
+	color: rgb(121, 0, 0);
+	font-family: Papyrus;
+}
+
+footer{
+	padding: 35px;
+	text-align: center;
+	border: 4px solid rgb(113, 6, 163);
+	color: black;
+	margin-bottom: 0px;
+}
